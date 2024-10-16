@@ -1,0 +1,53 @@
+[
+  {
+      "domain": ".cursor.com",
+      "expirationDate": 1760180191,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "ph_phc_Rbh7SDD9nCGKRBOqjoiijTSAW8WMAJpVQEs6hGEPqZp_posthog",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "%7B%22distinct_id%22%3A%221926ccdd9912ca6-09c0738be8ba2b-26001051-1fa400-1926ccdd9934870%22%2C%22%24device_id%22%3A%221926ccdd9912ca6-09c0738be8ba2b-26001051-1fa400-1926ccdd9934870%22%2C%22%24user_state%22%3A%22anonymous%22%2C%22%24sesid%22%3A%5B1728644191692%2C%221927b38d874112f-0dcac2c4c891bb-632d3b4e-1fa400-1927b38d87516c5%22%2C1728644175988%5D%2C%22%24session_recording_enabled_server_side%22%3Afalse%2C%22%24autocapture_disabled_server_side%22%3Afalse%2C%22%24active_feature_flags%22%3A%5B%5D%2C%22%24enabled_feature_flags%22%3A%7B%7D%2C%22%24feature_flag_payloads%22%3A%7B%7D%7D"
+  },
+  {
+      "domain": ".www.cursor.com",
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "WorkosCursorSessionToken",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": true,
+      "storeId": null,
+      "value": "user_01J9PCRH7GWA88KJ1RT8MPGV5C%3A%3AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhdXRoMHx1c2VyXzAxSjlQQ1JIN0dXQTg4S0oxUlQ4TVBHVjVDIiwidGltZSI6IjE3Mjg5NjcwMTYiLCJyYW5kb21uZXNzIjoiOGVhZjdjYzgtZjM5Ni00N2QwIiwiZXhwIjo0MzIwOTY3MDE2LCJpc3MiOiJodHRwczovL2F1dGhlbnRpY2F0aW9uLmN1cnNvci5zaCIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MiLCJhdWQiOiJodHRwczovL2N1cnNvci5jb20ifQ.JnlyqymX4SLBPkI341_-EJAHdvwlXtn8mNG4bt-_B4Q"
+  },
+  {
+      "domain": ".cursor.com",
+      "expirationDate": 1760532292,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "ph_phc_OrLbTmMnw0Ou1C4xuVIWJJaijIcp4J9Cm4JsAVRLtJo_posthog",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "%7B%22distinct_id%22%3A%221926ccdabdd1a5d-0a7b1975724fdc-26001051-1fa400-1926ccdabdf3c2f%22%2C%22%24device_id%22%3A%221926ccdabdd1a5d-0a7b1975724fdc-26001051-1fa400-1926ccdabdf3c2f%22%2C%22%24user_state%22%3A%22anonymous%22%2C%22%24sesid%22%3A%5B1728996292510%2C%2219290353dc01e3-08500b1dfbf84a-632d3b4e-1fa400-19290353dc12b1%22%2C1728996261312%5D%2C%22%24session_recording_enabled_server_side%22%3Afalse%2C%22%24autocapture_disabled_server_side%22%3Afalse%2C%22%24active_feature_flags%22%3A%5B%5D%2C%22%24enabled_feature_flags%22%3A%7B%7D%2C%22%24feature_flag_payloads%22%3A%7B%7D%7D"
+  },
+  {
+      "domain": ".cursor.com",
+      "expirationDate": 1760143428,
+      "hostOnly": false,
+      "httpOnly": false,
+      "name": "ph_phc_TXdpocbGVeZVm5VJmAsHTMrCofBQu3e0kN8HGMNGTVW_posthog",
+      "path": "/",
+      "sameSite": "lax",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "%7B%22distinct_id%22%3A%22019278fd-992e-76f0-9630-a2153edde25c%22%2C%22%24sesid%22%3A%5B1728607428315%2C%22019278fd-992d-7506-9578-a8f5f983cee4%22%2C1728606738732%5D%7D"
+  }
+]
